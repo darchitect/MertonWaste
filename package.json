@@ -1,0 +1,18 @@
+{
+  "name": "mertonwaste",
+  "version": "1.0.0",
+  "description": "Pull in the merton waste website and pull out the dates for the waste collection.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "ical-generator": "^1.9.2",
+    "moment": "^2.24.0",
+    "request": "^2.88.0",
+    "yargs": "^15.1.0"
+  }
+}
